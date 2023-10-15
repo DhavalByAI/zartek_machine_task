@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270929007151",
+    "project_id": "zartektask",
+    "storage_bucket": "zartektask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270929007151:android:b746297b14553c02536cda",
+        "android_client_info": {
+          "package_name": "com.example.zartek_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLXknWimvfgDYkdaoCUVHKy_stPazx2g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
